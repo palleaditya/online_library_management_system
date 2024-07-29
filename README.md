@@ -60,18 +60,3 @@ Online library Management System divided in two modules
 
 • Student can also recover own password.
 
-**Login Credentials For User**
-
-Open Your browser put inside browser “http://localhost/library”
-
-Username : test@gmail.com
-
-Password : Test@123
-
-**Login Credentials For Admin**
-
-Open Your browser put inside browser “http://localhost/library/admin”
-
-Username : admin
-
-Password : Test@123
