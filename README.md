@@ -6,7 +6,7 @@ Library Management System using PHP and MySQL is a web based application. Librar
 
 **Requirement**
 
-Project Name          : Library Management System
+Project Name          : Online Library Management System
 
 Language Used         : PHP 5.6
 
